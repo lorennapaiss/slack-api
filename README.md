@@ -19,7 +19,7 @@ This Node.js script reads an Excel file containing a list of responsible persons
 2. Ensure the Excel file follows the expected format (columns: `Nome`, `Email`, `Indicador`).  
 3. Run the script with:
    ```sh
-   node script.js
+   sendMessageToUsers.js
    ```
 
 🚀 Easily automate Slack notifications for key reminders!
